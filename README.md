@@ -6,6 +6,7 @@ I think one of my biggest challenges was creating the patient interaction system
 The most enjoyable part of this project was seeing the game become interactive and watching everything come together. Once I got the patient selection and treatment systems working together, the project started becoming very rewarding and the extra details I added went smoother. The blueprint logic took A LOT of getting used to but with more time came more understanding. The easiest part which was not very easy at all was designing the room details in the end and using FAB to add things like tool carts and hospital beds to get a more realistic feel. I really want to continue using unreal in the future to make more games as I already use Epic games to play fortnite and other video games and would love to try making my own.
 ## Demo Video
 https://youtu.be/QYJYXIbi_Jo
+A little over time so 2x speed gets the job done.
 ## Notes
 Large decorative and environment assets were left out of my repository due to the large file size so I have a google drive link with the full files below. 
 Google Drive link: https://drive.google.com/file/d/1Uc3o1vRm3rXxrRtbrHvgcjZz0EcZBM3h/view?usp=sharing 
